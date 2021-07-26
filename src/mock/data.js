@@ -28,30 +28,30 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
-    info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    img: 'forkify.jpg',
+    title: 'Foodie-Recipe-Forkify',
+    info: 'A web app to search for your favourite recipes.User can upload their own recipes and bookmark them.User can customize ingredients according to the servings.',
+    info2: 'Languages and Technology: JavaScript, SCSS, HTML.',
+    url: 'https://foodie-recipe-forkify.netlify.app/',
+    repo: 'https://github.com/skshivamkedia/foodie-recipe-forkify', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
-    info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    img: 'whiteboard.jpg',
+    title: 'Drawing Pen App',
+    info: 'A web app to use whiteboard online.User can download the whiteboard as a image.Drawing pen can be customized to any color and stroke size.',
+    info2: 'Languages and Technology: React, JavaScript, CSS, HTML.',
+    url: 'https://drawing-pen.netlify.app/',
+    repo: 'https://github.com/skshivamkedia/Drawing-Pen', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
-    info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    img: 'todo.jpg',
+    title: 'Day Scheduler App',
+    info: 'A web app to organize your daily tasks.',
+    info2: 'Languages and Technology: Node.js, Express.js, MongoDB, Javascript.',
+    url: 'https://day-scheduler-app.herokuapp.com/',
+    repo: 'https://github.com/skshivamkedia/day-scheduler', // if no repo, the button will not show up
   },
 ];
 
