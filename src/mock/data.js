@@ -21,7 +21,7 @@ export const aboutData = {
   paragraphOne: "Hello World! My name is Shivam Kedia.I'm a competitive programmer and a full stack web developer with primary focus on React and Javascript.",
   paragraphTwo: "I'm proficient in various data structure and algorithms and has fair knowledge of OOPs.My primary coding language is C++.",
   paragraphThree: 'I go by the username "skshivamkedia" at various CP sites like codeforces,codechef..',
-  resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
+  resume: 'https://drive.google.com/file/d/1JcGVCp9wB79CSY2wS2jp7cd4ZKmvnzv6/view?usp=sharing', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
